@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(45, 80, 233);
+}
+h1{
+    text-align: center;
+    border: 2px solid red;
+    color: red;
+    margin-left:500px ;
+    margin-right: 500px;
+    border-radius:70px ;
+}
+img{
+    height: 300px;
+    width: 700px;
+    display: inline-block;
+    margin-right:25% ;
+}
+h2{
+    color: rgb(121, 0, 0);
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+.a1{
+    color: black;
+    font-size: 20px;
+}
+  .a1:hover{
+      font-size: 23px;
+  }
+.a2{
+    color:black;
+    background-color:rgb(121, 0, 0);
+    text-decoration: none;
+    margin-right: 50%;
+    margin-left: 38%;
+    font-size: 22px;
+    display: block;
+    padding-right: 20px;
+}
